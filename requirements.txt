@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+pandas
+numpy
+yfinance
+ta
+pydantic
+apscheduler
+requests
+matplotlib
+seaborn
+plotly
+streamlit
+scikit-learn
